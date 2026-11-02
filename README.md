@@ -96,11 +96,18 @@ int main()
 ## Output:
 
 Public Key: (17, 3233)
+
 Private Key: (2753, 3233)
+
 Enter message (number less than 3233): 1234
+
 Original Message: 1234
+
 Encrypted Message: 2183
+
 Decrypted Message: 1234
+
+
 
 <img width="672" height="240" alt="image" src="https://github.com/user-attachments/assets/82ecb074-1daa-413e-9453-4cbe28814e1c" />
 
@@ -108,5 +115,4 @@ Decrypted Message: 1234
 The program is executed successfully.
 
 
-## Result:
- The program is executed successfully.
+
